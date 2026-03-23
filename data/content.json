@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Burbank Auto Doctor",
+  "tagline": "Trusted Auto Repair in Burbank",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Your Car Deserves a Doctor, Not a Dealership",
+    "subheading": "Honest diagnostics, expert repairs, and the kind of service that earns a 4.9-star rating with 244 reviews. Burbank's most trusted mechanic on W Burbank Blvd.",
+    "ctaText": "Call for Appointment",
+    "ctaLink": "tel:8185587755",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwervZGJui7roQTxqCcn4dR6pNYzyWWed8n9RIjck_ImeBmnuHtxzEU2dMGsyb3eikKS2oEgsjq4I3TnTgY-xR2YhSGTKm0xtnmLJDA-kkwINmYTD9ho3tdfupdQe3mT8LaI5_EjL=w408-h305-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Honest Work, Fair Prices",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Burbank Auto Doctor has been keeping Burbank on the road with transparent, trustworthy auto repair. We don't upsell, we don't cut corners, and we always explain what's going on with your car before we touch a wrench.",
+      "With a 4.9-star rating across 244 reviews, our reputation speaks for itself. From routine oil changes to complex engine diagnostics, we treat every car like it's our own — and every customer like family.",
+      "Monday through Friday, 8 AM to 5 PM. Drop off in the morning, pick up after work. We make it easy."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Diagnostics & Inspection",
+      "description": "State-of-the-art computer diagnostics to pinpoint the issue fast. Complete vehicle inspections with honest assessments.",
+      "icon": "Search"
+    },
+    {
+      "title": "Engine & Transmission",
+      "description": "Full engine repair, transmission service, timing belts, head gaskets, and everything under the hood.",
+      "icon": "Wrench"
+    },
+    {
+      "title": "Brakes & Suspension",
+      "description": "Brake pad replacement, rotor resurfacing, suspension repair, shocks, struts, and alignment.",
+      "icon": "Shield"
+    },
+    {
+      "title": "Maintenance & Tune-Ups",
+      "description": "Oil changes, fluid flushes, spark plugs, filters, belts, and scheduled maintenance to keep your car running.",
+      "icon": "Settings"
+    }
   ],
+  "reviews": [
+    {
+      "name": "David P.",
+      "text": "These guys are the real deal. Honest, fair, and they actually explain what needs to be done. Never going back to the dealership.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle K.",
+      "text": "Best auto shop I've ever been to. They fixed my AC for half what the dealer quoted. Incredible service.",
+      "rating": 5
+    },
+    {
+      "name": "Tony L.",
+      "text": "I've been bringing all my cars here for 5 years. Trustworthy mechanics are hard to find and these guys are the best.",
+      "rating": 5
+    },
+    {
+      "name": "Sarah W.",
+      "text": "They diagnosed my check engine light in 20 minutes and had it fixed same day. Fair price, no BS.",
+      "rating": 5
+    },
+    {
+      "name": "James C.",
+      "text": "Five stars isn't enough. Saved me thousands vs the dealership and the car runs better than ever.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "Our Shop",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwervZGJui7roQTxqCcn4dR6pNYzyWWed8n9RIjck_ImeBmnuHtxzEU2dMGsyb3eikKS2oEgsjq4I3TnTgY-xR2YhSGTKm0xtnmLJDA-kkwINmYTD9ho3tdfupdQe3mT8LaI5_EjL=w408-h305-k-no",
+        "alt": "Burbank Auto Doctor shop"
+      }
+    ]
+  },
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "address": "2100 W Burbank Blvd, Burbank, CA 91506",
+    "phone": "(818) 558-7755",
+    "email": "info@burbankauto.com",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "Closed",
       "Sunday": "Closed"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    "mapEmbedQuery": "Burbank Auto Doctor 2100 W Burbank Blvd Burbank CA 91506"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Burbank Auto Doctor | Trusted Auto Repair & Mechanic in Burbank CA",
+    "description": "Honest auto repair on W Burbank Blvd — diagnostics, brakes, engine, transmission. 4.9 stars, 244 reviews. Mon-Fri 8 AM to 5 PM.",
+    "keywords": [
+      "auto repair Burbank",
+      "mechanic Burbank CA",
+      "brake repair Burbank",
+      "Burbank Auto Doctor",
+      "car repair near me"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#f5f5f4",
+    "accentColor": "#0369a1",
+    "fontFamily": "technical"
   }
 }
